@@ -14,7 +14,7 @@ Hi 👋, I'm Crisogno Lobato de Carvalho
 </h1>
 
 <h3 align="center">
-🐍 Django Full Stack Developer | Software Engineer | 
+🐍 Django Developer | Software Engineer | 
 </h3>
 
 <p align="center">
@@ -36,7 +36,7 @@ class Crisogno:
 
         self.name = "Crisogno Lobato de Carvalho"
 
-        self.role = "Django Full Stack Developer"
+        self.role = "Software Developer"
 
         self.language = [
             "Python",
@@ -129,8 +129,6 @@ class Crisogno:
 
 <img src="https://skillicons.dev/icons?i=tailwind"/>
 
-<img src="https://skillicons.dev/icons?i=react"/>
-
 <img src="https://skillicons.dev/icons?i=angular"/>
 
 </p>
@@ -144,8 +142,6 @@ class Crisogno:
 <img src="https://skillicons.dev/icons?i=postgres"/>
 
 <img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
 
 <img src="https://skillicons.dev/icons?i=sqlite"/>
 
@@ -173,62 +169,6 @@ class Crisogno:
 
 ---
 
-### Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
-<img src="https://skillicons.dev/icons?i=azure"/>
-
-<img src="https://skillicons.dev/icons?i=gcp"/>
-
-</p>
-
----
-
-# 🐍 Django Expertise
-
-✅ Django
-
-✅ Django REST Framework
-
-✅ REST API Development
-
-✅ JWT Authentication
-
-✅ OAuth2
-
-✅ PostgreSQL
-
-✅ Docker
-
-✅ Celery
-
-✅ Redis
-
-✅ Swagger
-
-✅ OpenAPI
-
-✅ Django Signals
-
-✅ Django Middleware
-
-✅ ORM Optimization
-
-✅ Django Admin
-
-✅ RBAC
-
-✅ Authentication & Authorization
-
-✅ Gunicorn
-
-✅ Nginx
-
-✅ Linux Deployment
-
 ---
 
 # 💼 Current Projects
@@ -250,51 +190,14 @@ class Crisogno:
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=lobatocarvalho&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=lobatocarvalho&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&column=7"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🐍 Snake Contribution
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
 
 ---
 
@@ -303,7 +206,6 @@ class Crisogno:
 - Django Channels
 - Apache Fineract
 - Kubernetes
-- Microservices
 - Artificial Intelligence
 - Machine Learning
 
@@ -397,19 +299,11 @@ while alive:
 
 <p align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/lobatocarvalho">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:crilc22020@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -419,7 +313,7 @@ while alive:
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=lobatocarvalho&style=for-the-badge&color=blue"/>
 
 </p>
 
@@ -433,6 +327,6 @@ while alive:
 
 <p align="center">
 
-"Code • Learn • Build • Innovate"
+" Code • Learn • Build • Innovate "
 
 </p>
