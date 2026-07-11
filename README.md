@@ -169,23 +169,6 @@ class Crisogno:
 
 ---
 
----
-
-# 💼 Current Projects
-
-## 🏦 MDP Loan Management System
-
-- Loan Processing
-- Client Management
-- Loan Approval Workflow
-- Financial Dashboard
-- Collection Management
-- REST APIs
-- Mobile API
-- Docker Deployment
-
----
-
 # 📈 GitHub Statistics
 
 <p align="center">
@@ -195,9 +178,6 @@ class Crisogno:
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=lobatocarvalho&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
 
 ---
 
@@ -235,42 +215,6 @@ INSTALLED_APPS = [
     "debug_toolbar",
 
 ]
-```
-
----
-
-# ⚙ Development Workflow
-
-```text
-Requirements
-
-      ↓
-
-Design
-
-      ↓
-
-Django Development
-
-      ↓
-
-REST API
-
-      ↓
-
-Testing
-
-      ↓
-
-Docker
-
-      ↓
-
-CI/CD
-
-      ↓
-
-Production
 ```
 
 ---
