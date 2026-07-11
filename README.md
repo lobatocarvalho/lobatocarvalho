@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Coding Banner">
 </p> -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Coding Animation">
 </p>
 
 <h1 align="center">
@@ -14,7 +14,7 @@ Hi 👋, I'm Crisogno Lobato de Carvalho
 </h1>
 
 <h3 align="center">
-🐍 Django Full Stack Developer | Software Engineer | FinTech Solution Architect
+🐍 Django Full Stack Developer | Software Engineer | 
 </h3>
 
 <p align="center">
