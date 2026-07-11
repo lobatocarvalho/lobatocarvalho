@@ -2,8 +2,11 @@
 <!--                GitHub Profile README                   -->
 <!-- ====================================================== -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Coding Banner">
+</p> -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" alt="Matrix">
 </p>
 
 <h1 align="center">
@@ -243,16 +246,6 @@ class Crisogno:
 
 ---
 
-## 🏛 Government Digital Systems
-
-- Industrial Registration
-- Licensing System
-- Business Registration
-- Reporting Dashboard
-- Digital Transformation
-
----
-
 # 📈 GitHub Statistics
 
 <p align="center">
@@ -313,8 +306,6 @@ class Crisogno:
 - Microservices
 - Artificial Intelligence
 - Machine Learning
-- Cloud Native Development
-- DevSecOps
 
 ---
 
